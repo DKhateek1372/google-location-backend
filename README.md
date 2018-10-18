@@ -1,10 +1,14 @@
 # google-location-backend
 
-IN Backend I am using MongoDB & Node.Js 
-First you need to start first MongoDb -
+IN Backend I am using Node server and MongoDB 
+First you need to start your server -
 
-USE THIS COMMAND --   sudo service mongod start Or mongod
+To start your server use this command ---->  nodemon app.js 
+                                  OR           node app.js
 
-AND AFTER THAT start nodejs - nodemon app.js or node app.js
+Then  start mongo
+USE THIS COMMAND --   sudo service mongod start 
+              OR   --   mongod
 
-Please use one command ------> npm install so all the related libraries will be install into your code.
+Please use this command ------> npm install 
+so all the libraries used in code will be install.
